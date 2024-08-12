@@ -25,4 +25,3 @@ print(f"R^2 {model.score(X,y)}")
 print(f"Intercept {model.intercept_}")
 print(f"Columns {X.columns}")
 print(f"Coefficients {model.coef_}")
-
